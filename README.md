@@ -3,7 +3,7 @@
 1. Git clone the following repository link:
    - [https://github.com/ethandsouza02/Ethan-Dsouza-Xogene-React-Assessment](https://github.com/ethandsouza02/Ethan-Dsouza-Xogene-React-Assessment)
 
-2. On the Terminal, run the command `npm i` or `npm install` in order to install the JSON packages.
+2. On the Terminal, run the command `npm i` or `npm install` in order to install the packages.
 
 3. Then, run the command `npm run dev`.
 
