@@ -1,0 +1,21 @@
+.Navbar {
+  display: flex;
+  justify-content: space-between;
+  background-color: #bdbdbd;
+}
+
+.main-container {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  padding-top: 15vh;
+}
+
+.main-container .search-container {
+  display: flex;
+  flex-direction: column;
+}
+
+.main-container #input-container {
+  background-color: #bdbdbd;
+}
